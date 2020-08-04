@@ -5,6 +5,7 @@
   "author": "deverso",
   "license": "MIT",
   "repository": "deverso/react-simple-gpt",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.tsx",
